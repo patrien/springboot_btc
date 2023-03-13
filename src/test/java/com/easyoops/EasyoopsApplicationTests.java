@@ -12,4 +12,11 @@ class EasyoopsApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	void contextFixs() {
+	}
+	@Test
+	void contextDoAny() {
+	}
+
 }
