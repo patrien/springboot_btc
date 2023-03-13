@@ -1,2 +1,4 @@
 .idea/
 target/
+testing/*
+!testing/file2
